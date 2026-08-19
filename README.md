@@ -59,32 +59,47 @@ A library manager written in **32-bit x86 assembly (NASM)** — catalogue search
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🕌 Rattil — Quran Learning Web Platform
+
+A full-stack **ASP.NET Core MVC (.NET 8)** platform (lessons, quizzes, gamification, messaging, admin CMS) on **SQL Server**. **My build:** the real-time **1-to-1 chat** (AJAX polling, unread badges), **notifications**, the **feedback** &amp; **daily-content** modules, and the **trilingual EN / AR / MS** UI with **RTL** support.
+
+`C#` · `ASP.NET Core` · `SQL Server`
+
+[![Open repo](https://img.shields.io/badge/→_View_repo-8B7CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adenzia04-ui/rattil-quran-platform)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧩 C++ Data Structures
+
+Programs built on **hand-written data structures** (no STL): a doubly-linked-list **music player** &amp; **clothing-shop** system, plus a **queue-based order module** with edge-case tests.
+
+`C++`
+
+[![Open repo](https://img.shields.io/badge/→_View_repo-8B7CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adenzia04-ui/cpp-data-structures)
+
+</td>
+</tr>
 </table>
 
 <table>
 <tr>
 <td valign="top">
 
-#### 🕌 Rattil — Quran Learning Web Platform
+#### 🎓 Emotion-Adaptive E-Learning — Research
 
-A full-stack **ASP.NET Core MVC (.NET 8)** learning platform — lessons, quizzes, gamification, messaging and an admin content-management area — backed by **SQL Server** on a clean **Controller → Service → Repository** architecture.
+A research proposal &amp; literature review for an e-learning system that uses **Facial Emotion Recognition (FER)** via a webcam to read a learner's emotion and **adapt content, difficulty &amp; feedback in real time**. Covers affective computing, CNN-based FER, emotion-aware tutoring systems, a similar-systems comparison, and a mixed-methods (DDR) methodology.
 
-**My build:** the real-time **1-to-1 chat** (AJAX polling, unread-message badges), live **notifications** across every role, the **feedback** &amp; **daily-content** modules, and the app's **trilingual EN / AR / MS UI** with full **right-to-left (RTL)** support.
+`Research` · `Affective Computing` · `Facial Emotion Recognition`
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Open repo](https://img.shields.io/badge/→_View_repo-8B7CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adenzia04-ui/emotion-adaptive-elearning-research)
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>➕ More I've worked on (team coursework)</b></summary>
-
-<br>
-
-- **Campus Food-Court Kiosk** — a **C++** self-order system built on **hand-written data structures** (queue, BST, linked lists — no STL containers).
-
-</details>
 
 ---
 
