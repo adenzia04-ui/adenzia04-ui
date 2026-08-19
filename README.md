@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/adenzia04-ui">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=8B7CF6&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I'm+Aden+Zia+%F0%9F%91%8B;Computer+Science+(Data+Analytics)+%40+APU;From+x86+assembly+to+full-stack+web;Seeking+a+software+%2F+data+internship" alt="Aden Zia" />
-</a>
+# Hi, I'm Aden Zia 👋
+
+### Computer Science (Data Analytics) @ APU · from x86 assembly to full-stack web
 
 <p>
   <a href="mailto:adenzia04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -64,17 +64,6 @@ I like building things end to end, and going **low to high** — from register-l
 | 📚 **[Assembly Library System](https://github.com/adenzia04-ui/assembly-library-system)** | A library manager written in **32-bit x86 assembly (NASM)**: catalogue search, borrow/return with a 3-book limit and overdue-fine calculation, running statistics — arithmetic, loops and jumps at the register level | `x86 Assembly` |
 
 > **Also built** (team coursework): **Rattil** — a full-stack ASP.NET Core (.NET 8) learning platform with real-time chat, notifications and a trilingual (EN / AR / MS) UI · a **C++ campus food-court kiosk** using hand-written data structures.
-
-<br>
-
-### 📊 GitHub in numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adenzia04-ui&show_icons=true&hide_border=true&theme=tokyonight&title_color=8B7CF6&icon_color=8B7CF6&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenzia04-ui&layout=compact&hide_border=true&theme=tokyonight&title_color=8B7CF6" alt="Top languages" />
-
-</div>
 
 <br>
 
