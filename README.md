@@ -83,6 +83,30 @@ Programs built on **hand-written data structures** (no STL): a doubly-linked-lis
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 Telco Customer Churn Analysis
+
+A **data-mining** analysis of the **Telco Customer Churn** dataset in **SAS** — data preprocessing, EDA (distributions &amp; boxplots), and **logistic-regression** churn profiling across **7,043** customers.
+
+`SAS` · `Logistic Regression`
+
+[![Open repo](https://img.shields.io/badge/→_View_repo-8B7CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adenzia04-ui/telco-churn-analysis)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎓 Assessment Feedback System
+
+A **Java Swing** desktop app with **role-based access** (admin / leader / lecturer / student) built on an OOP hierarchy — feedback &amp; grading, a custom themed UI, and file-based persistence with audit logging. *(Team coursework — write-up.)*
+
+`Java` · `Swing` · `OOP`
+
+[![Open repo](https://img.shields.io/badge/→_View_repo-8B7CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adenzia04-ui/assessment-feedback-system)
+
+</td>
+</tr>
 </table>
 
 <table>
