@@ -64,7 +64,7 @@ A library manager written in **32-bit x86 assembly (NASM)** — catalogue search
 
 #### 🕌 Rattil — Quran Learning Web Platform
 
-A full-stack **ASP.NET Core MVC (.NET 8)** platform (lessons, quizzes, gamification, messaging, admin CMS) on **SQL Server**. **My build:** the real-time **1-to-1 chat** (AJAX polling, unread badges), **notifications**, the **feedback** &amp; **daily-content** modules, and the **trilingual EN / AR / MS** UI with **RTL** support.
+A full-stack **ASP.NET Core MVC (.NET 8)** platform I built — lessons, quizzes, gamification, a real-time **1-to-1 chat** (AJAX polling, unread badges), **notifications**, an **admin CMS**, and a **trilingual EN / AR / MS** UI with **RTL** — on **SQL Server** with a layered Controller → Service → Repository architecture.
 
 `C#` · `ASP.NET Core` · `SQL Server`
 
@@ -99,7 +99,7 @@ A **data-mining** analysis of the **Telco Customer Churn** dataset in **SAS** �
 
 #### 🎓 Assessment Feedback System
 
-A **Java Swing** desktop app with **role-based access** (admin / leader / lecturer / student) built on an OOP hierarchy — feedback &amp; grading, a custom themed UI, and file-based persistence with audit logging. *(Team coursework — write-up.)*
+A **Java Swing** desktop app with **role-based access** (admin / leader / lecturer / student) built on an OOP hierarchy — feedback &amp; grading, a custom themed UI, and file-based persistence with audit logging.
 
 `Java` · `Swing` · `OOP`
 
