@@ -61,12 +61,27 @@ A library manager written in **32-bit x86 assembly (NASM)** — catalogue search
 </tr>
 </table>
 
+<table>
+<tr>
+<td valign="top">
+
+#### 🕌 Rattil — Quran Learning Web Platform
+
+A full-stack **ASP.NET Core MVC (.NET 8)** learning platform — lessons, quizzes, gamification, messaging and an admin content-management area — backed by **SQL Server** on a clean **Controller → Service → Repository** architecture.
+
+**My build:** the real-time **1-to-1 chat** (AJAX polling, unread-message badges), live **notifications** across every role, the **feedback** &amp; **daily-content** modules, and the app's **trilingual EN / AR / MS UI** with full **right-to-left (RTL)** support.
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
+
 <details>
 <summary><b>➕ More I've worked on (team coursework)</b></summary>
 
 <br>
 
-- **Rattil** — a full-stack **ASP.NET Core (.NET 8)** learning platform: real-time chat, live notifications, and a trilingual **EN / AR / MS** UI with right-to-left support.
 - **Campus Food-Court Kiosk** — a **C++** self-order system built on **hand-written data structures** (queue, BST, linked lists — no STL containers).
 
 </details>
